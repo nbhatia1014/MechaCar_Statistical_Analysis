@@ -22,6 +22,6 @@
 ![ThisIsAnImage](https://github.com/nbhatia1014/MechaCar_Statistical_Analysis/blob/main/Images/Lot3_T_test.PNG)
 
 ### All Lots T-Test
-![ThisIsAnImage](https://github.com/nbhatia1014/MechaCar_Statistical_Analysis/blob/main/Images/All_lots%T_test.PNG)
+![ThisIsAnImage](https://github.com/nbhatia1014/MechaCar_Statistical_Analysis/blob/main/Images/All_lots%20T_test.PNG)
 
 ## Study Design: MechaCar vs Competition
